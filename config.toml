@@ -15,19 +15,19 @@ author = "Ashok Gelal"
 description = "I'm so sorry if I mispronounced my name"
 profilePicture = "images/profile.png"
 
-[menu]
-
-  [[menu.main]]
-  name = "Home"
-  identifier = "home"
-  weight = 100
-  url = "/"
-
-  [[menu.main]]
-  name = "Projects"
-  weight = 300
-  identifier = "projects"
-  url = "/projects/"
+#[menu]
+#
+#  [[menu.main]]
+#  name = "Home"
+#  identifier = "home"
+#  weight = 100
+#  url = "/"
+#
+#  [[menu.main]]
+#  name = "Projects"
+#  weight = 300
+#  identifier = "projects"
+#  url = "/projects/"
 
 [markup]
     [markup.goldmark]
