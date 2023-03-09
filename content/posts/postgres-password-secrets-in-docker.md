@@ -1,7 +1,7 @@
 ---
 title: "Postgres Password Secrets in Docker"
 date: 2023-03-08T18:19:04-05:00
-draft: true
+draft: false
 tags: ['docker', 'postgres']
 ---
 
